@@ -1,6 +1,6 @@
 README:
 In order to use the project, you should Insert the folder with the name
- "Database" to the C drive
+ "Database" to the C drive.
 The WindowsForm software:
 To run the software, enter the EZMATH folder and run the file
 Logging into the system: To log into the system as a registered teacher, enter the following username and password:
