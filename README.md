@@ -5,4 +5,4 @@ This is a math learning operating system to use and help teachers and students l
 ![Screenshot_1](https://github.com/OriyaShamir/Oriya-Shamir-Math-Project/assets/172430766/be28b69b-f06b-4535-8a05-ee2456eecef1)
 
 Youtube Tutorial
-Link : 
+Links : https://youtu.be/vA2dQ2RW_6M
